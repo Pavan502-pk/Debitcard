@@ -13,7 +13,7 @@ body {
 }
 
 .card {
-  background-image:url("/1.jpeg");
+  background-image:url("1.jpeg");
   background-size: 100%;
   
   background-repeat: no-repeat;
